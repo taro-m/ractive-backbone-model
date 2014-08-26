@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<meta charset="utf-8" />
+{{content}}{%for js in site.scripts%}
+<script src="{{js}}"></script>{%endfor%}{%for js in page.scripts%}
+<script src="{{js}}"></script>{%endfor%}
+</html>

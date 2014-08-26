@@ -1,0 +1,8 @@
+encoding: utf-8
+
+scripts:
+  - js/jquery-1.11.1.js
+  - js/underscore-1.6.0.js
+  - js/backbone-1.1.2.js
+  - js/ractive-0.4.0.js
+  - js/Ractive-Backbone-0.1.0.js
